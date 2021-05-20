@@ -4,4 +4,5 @@ blue
 yellow 
 red
 orange
+adding the colour blue
 this are the colours of rainbow
